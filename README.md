@@ -7,8 +7,7 @@
   - `icon/`: Folder ini berisi ikon yang digunakan dalam proyek.
   - `img/`: Folder ini berisi gambar yang digunakan dalam proyek.
   - `js/`: Folder ini berisi file JavaScript yang digunakan dalam proyek.
-- `index.html`: File HTML utama yang merupakan titik masuk dari aplikasi web.
-- `README.md`: File ini berisi dokumentasi proyek.
+
 
 ## Cara Menggunakan
 1. Tambahkan ikon ke dalam folder `asset/icon/` dan gambar ke dalam folder `asset/img/` sesuai kebutuhan.
